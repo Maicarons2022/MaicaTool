@@ -1,4 +1,4 @@
-module temp
+module maicatool
 
 go 1.17
 

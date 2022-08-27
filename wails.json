@@ -1,6 +1,6 @@
 {
-  "name": "temp",
-  "outputfilename": "temp",
+  "name": "maicatool",
+  "outputfilename": "maicatool",
   "frontend:install": "npm install",
   "frontend:build": "npm run build",
   "frontend:dev:watcher": "npm run dev",

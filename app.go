@@ -27,5 +27,5 @@ func (a *App) Greet(name string) string {
 }
 
 func (a *App) Test() string {
-	return "时间" + time.Now().String()
+	return time.Now().Format("Wed Feb 25 11:06:39 PST 2015")
 }
